@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+font-family: 'Questrial', sans-serif;
+background-attachment: fixed;
+color:white;
+}
+
+.content {
+  margin: 10px auto;
+  width: 400px;
+}
+
+.user-input {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  background: #ECECEC;
+}
+
+button {
+  width: 300px;
+  padding: 5px;
+  margin: 5px auto 25px auto;
+  background: white;
+  border: none;
+  border-radius: 2px;
+  color: black;
+  font-size: 40px;
+
+}
+
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsSneCAbjHZtLLjUE5tK3CwCi1a7Ke12VPVJf6SKIa2FAJBb1);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-container {
+  padding: 30px;
+  background: #A2DAD3;
+}
+
+h2 {
+  font-size: 120%;
+  margin-bottom: 10px;
+}
+
+.name-card {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 300px;
+  background: #fff;
+}
+.clear-button {
+color: white;
+}
